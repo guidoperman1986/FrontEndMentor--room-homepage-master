@@ -1,0 +1,14 @@
+{
+  "name": "room-homepage-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style/styles.css -w"
+  },
+  "author": "Guido Perman",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
